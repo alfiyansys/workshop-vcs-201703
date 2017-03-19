@@ -3,3 +3,9 @@ ini adalah line kedua
 line ketiga coba git add .
 
 line ke sekian ....
+
+
+commit ke sekian untuk coba fetch
+
+
+commit untuk branch dev
