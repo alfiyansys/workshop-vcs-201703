@@ -9,3 +9,5 @@ commit ke sekian untuk coba fetch
 
 
 commit untuk branch dev
+
+commit untuk non fast forward
